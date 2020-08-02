@@ -13,4 +13,18 @@ for i in range(1, len(a)):
 
     a[j+1] = key
 
-print('ordered array', a)
+print('ascending ordered array', a)
+
+b = [5, 2, 4, 6, 1, 3]
+
+for i in range(len(b)):
+    key = b[i]
+    j = i - 1
+
+    while(j >= 0 and b[j] < key):
+        b[j+1] = b[j]
+        j = j - 1
+
+    b[j+1] = key
+
+print('descending ordered array', b)
