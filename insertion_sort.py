@@ -17,7 +17,7 @@ print('ascending ordered array', a)
 
 b = [5, 2, 4, 6, 1, 3]
 
-for i in range(len(b)):
+for i in range(1, len(b)):
     key = b[i]
     j = i - 1
 
