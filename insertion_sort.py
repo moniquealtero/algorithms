@@ -1,5 +1,5 @@
-a = [5, 2, 4, 6,1, 3]
-#a = [22, 41, 16,104, 35, 123, 24678, 120, 1]
+#a = [5, 2, 4, 6,1, 3]
+a = [22, 41, 16,104, 35, 123, 24678, 120, 1]
 
 print('unordered array', a)
 
@@ -15,7 +15,7 @@ for i in range(1, len(a)):
 
 print('ascending ordered array', a)
 
-b = [5, 2, 4, 6, 1, 3]
+b = [22, 41, 16,104, 35, 123, 24678, 120, 1]
 
 for i in range(1, len(b)):
     key = b[i]
@@ -28,3 +28,7 @@ for i in range(1, len(b)):
     b[j+1] = key
 
 print('descending ordered array', b)
+
+
+# time O(n^2)
+# space O(n)
