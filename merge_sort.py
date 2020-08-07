@@ -35,6 +35,8 @@ def merge_sort(a, p, r):
 
 a = [2, 3, 5, 1, 5, 9, 7, 2, 8, 123214, 2421, 123214, 421454, 123, 124, 4]
 
+print('unordered array', a)
+
 merge_sort(a, 0, len(a) - 1)
 
-print(a)
+print('ordered array', a)
