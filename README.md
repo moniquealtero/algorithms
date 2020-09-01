@@ -9,4 +9,5 @@ This repo is used for my studies while I'm reading [CLRS book](https://www.amazo
 - [Merge Sort](https://github.com/moniquealtero/algorithms/blob/master/merge_sort.py)
 
 ### Divide and Conquer Paradigm
+- [Merge Sort](https://github.com/moniquealtero/algorithms/blob/master/merge_sort.py)
 - [Subset Sum](https://github.com/moniquealtero/algorithms/blob/master/subset_sum_divide_and_conquer.py)
