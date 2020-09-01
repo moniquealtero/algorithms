@@ -1,6 +1,6 @@
 # Algorithms Practice Problems
 
-This repo is used for my studies while I'm reading [CLRS's book](https://www.amazon.com.br/Introduction-Algorithms-Thomas-H-Cormen/dp/0262033844).
+This repo is used for my studies while I'm reading [CLRS book](https://www.amazon.com.br/Introduction-Algorithms-Thomas-H-Cormen/dp/0262033844).
 
 ### Sorting Algorithms
 - [Bubble Sort](https://github.com/moniquealtero/algorithms/blob/master/bubble_sort.py)
