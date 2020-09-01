@@ -15,4 +15,4 @@ bubble(a)
 
 print('ordered array', a)
 
-# O(n²)
+# O(n^2)

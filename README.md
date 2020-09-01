@@ -5,6 +5,7 @@ This repo is used for my studies while I'm reading [CLRS book](https://www.amazo
 ### Sorting Algorithms
 - [Bubble Sort](https://github.com/moniquealtero/algorithms/blob/master/bubble_sort.py)
 - [Insertion Sort](https://github.com/moniquealtero/algorithms/blob/master/insertion_sort.py)
+- [Reversed Insertion Sort](https://github.com/moniquealtero/algorithms/blob/master/reversed_insertion_sort.py)
 - [Merge Sort](https://github.com/moniquealtero/algorithms/blob/master/merge_sort.py)
 
 ### Divide and Conquer Paradigm
