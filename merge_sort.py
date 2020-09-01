@@ -40,3 +40,6 @@ print('unordered array', a)
 merge_sort(a, 0, len(a) - 1)
 
 print('ordered array', a)
+
+
+# 0(n log n)

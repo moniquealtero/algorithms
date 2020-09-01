@@ -36,5 +36,4 @@ insertion_sort_descending(b)
 print('descending ordered array', b)
 
 
-# time O(n^2)
-# space O(n)
+# O(n²)

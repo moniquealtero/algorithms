@@ -14,3 +14,5 @@ print('unordered array', a)
 bubble(a)
 
 print('ordered array', a)
+
+# O(n²)
